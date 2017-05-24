@@ -30,7 +30,7 @@ Closed source unless indicated otherwise.
 - [Diffbot][]
 - [ChangeDetection][] :beer:
 - [ChangeTower][]
-- [Follow The Page!][]
+- [Follow That Page][]
 - [OnWebChange][]
 - [PageFreezer][]
 - [TheWebWatcher][] :beer:
