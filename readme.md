@@ -34,6 +34,7 @@ Closed source unless indicated otherwise.
 - [Diffbot][]
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
+- [ChangeDetect][]
 - [ChangeDetection][] :beer:
 - [ChangeTower][]
 - [Follow That Page][]
@@ -87,3 +88,4 @@ related or neighboring rights to this work.
    [distill-ff]: https://addons.mozilla.org/en-us/firefox/addon/alertbox/
    [distill-chrome]: https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en
    [edgi-webmon]: https://github.com/edgi-govdata-archiving/web-monitoring
+   [ChangeDetect]: http://www.changedetect.com/
