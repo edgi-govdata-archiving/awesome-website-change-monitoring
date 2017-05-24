@@ -5,24 +5,41 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Section](#open-source)
+- [Another Section](#hosted-services)
+
+| Legend |
+|--------|
+| :green_heart: Open Source |
+| :broken_heart: Closed Source |
+| :white_square_button: Hosted Service |
+| :beer: Free |
 
 
-## Section
+## Open Source
 
-About this section. Optional. Keep this short and focus on the list.
+- [Huginn][]. :green_heart:
+- [Klaxon][]. [:green_heart:][klaxon-code]
+- [DiffEngine][] :green_heart:
+- [NYTdiff][] [:green_heart:][nytdiff-code]
+- [NewsDiff][] [:green_heart:][newsdiff-code]
+- [Pagelyzer][]. [:green_heart:][pagelyzer-code]
 
-- [List item](http://example.com)
-- [List item](http://example.com)
 
+## Hosted Services
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Diffbot][]
+- [ChangeDetection][] :beer:
+- [ChangeTower][]
+- [Follow The Page!][]
+- [OnWebChange][]
+- [PageFreezer][]
+- [TheWebWatcher][] :beer:
+- [Trackly][]
+- [Versionista][]
+- [VisualPing][]
+- [Wachete][]
+- [WatchThatPage][]
 
 
 ## Contribute
@@ -36,3 +53,25 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Patrick Connolly has waived all copyright and
 related or neighboring rights to this work.
+
+   [huginn]: https://github.com/huginn/huginn
+   [klaxon]: https://www.newsklaxon.org/
+   [klaxon-code]: https://github.com/themarshallproject/klaxon
+   [pagelyzer]: http://pagelyzer.openpreservation.org/
+   [pagelyzer-code]: https://github.com/openpreserve/pagelyzer
+   [trackly]: https://trackly.io/
+   [versionista]: https://versionista.com/
+   [visualping]: https://visualping.io/
+   [followthatpage]: https://www.followthatpage.com/
+   [diffbot]: https://www.diffbot.com/
+   [pagefreezer]: https://www.pagefreezer.com/
+   [diffengine]: https://github.com/DocNow/diffengine
+   [nytdiff]: https://github.com/j-e-d/NYTdiff
+   [nytdiff-code]: https://github.com/j-e-d/NYTdiff
+   [onwebchange]: https://onwebchange.com/
+   [thewebwatched]: http://www.thewebwatcher.com/
+   [ChangeTower]: https://changetower.com/
+   [ChangeDetection]: https://www.changedetection.com/
+   [WatchThatPage]: http://www.watchthatpage.com/
+   [NewsDiffs]: http://newsdiffs.org/
+   [newsdiffs-code]: https://github.com/ecprice/newsdiffs
