@@ -19,6 +19,7 @@ Google Spreadsheet on _Web monitoring software comparison_][spreadsheet].
 ## Open Source
 
 - [DiffEngine][].
+- [EDGI Web Monitoring][edgi-webmon]
 - [Huginn][].
 - [Klaxon][]. [code][klaxon-code]
 - [NewsDiffs][]. [code][newsdiffs-code]
@@ -85,3 +86,4 @@ related or neighboring rights to this work.
    [distill]: https://distill.io/
    [distill-ff]: https://addons.mozilla.org/en-us/firefox/addon/alertbox/
    [distill-chrome]: https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en
+   [edgi-webmon]: https://github.com/edgi-govdata-archiving/web-monitoring
