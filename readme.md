@@ -1,6 +1,10 @@
 # Awesome Website Change Monitoring [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome tools for website diffing and change monitoring.
+> A ~curated~ comprehensive list of ~awesome~ tools for website diffing
+> and change monitoring.
+
+Unlike many awesome lists, this area is so small that we are currently
+aspiring the map the whole tool landscape :)
 
 **Note:** For a more in-depth comparison of these tools, please [contribute to our
 Google Spreadsheet on _Web monitoring software comparison_][spreadsheet].
@@ -8,15 +12,19 @@ Google Spreadsheet on _Web monitoring software comparison_][spreadsheet].
 
 ## Contents
 
-- [Open Source](#open-source)
-- [Hosted Services](#hosted-services)
+- [Content Diffing](#content-diffing)
+  - [Open Source](#open-source)
+  - [Hosted Services](#hosted-services)
+- [Content Extraction](#content-extraction)
 
 | Legend |
 |--------|
 | :beer: Free |
 
 
-## Open Source
+## Content Diffing
+
+### Open Source
 
 - [DiffEngine][].
 - [EDGI Web Monitoring][edgi-webmon]
@@ -27,11 +35,10 @@ Google Spreadsheet on _Web monitoring software comparison_][spreadsheet].
 - [Pagelyzer][]. [code][pagelyzer-code]
 
 
-## Hosted Services
+### Hosted Services
 
 Closed source unless indicated otherwise.
 
-- [Diffbot][]
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
 - [ChangeDetect][]
@@ -46,6 +53,10 @@ Closed source unless indicated otherwise.
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
 - [WatchThatPage][]
+
+## Content Extraction
+
+- [Diffbot][]
 
 
 ## Contribute
