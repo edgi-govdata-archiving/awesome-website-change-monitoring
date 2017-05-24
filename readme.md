@@ -5,28 +5,27 @@
 
 ## Contents
 
-- [Section](#open-source)
-- [Another Section](#hosted-services)
+- [Open Source](#open-source)
+- [Hosted Services](#hosted-services)
 
 | Legend |
 |--------|
-| :green_heart: Open Source |
-| :broken_heart: Closed Source |
-| :white_square_button: Hosted Service |
 | :beer: Free |
 
 
 ## Open Source
 
-- [Huginn][]. :green_heart:
-- [Klaxon][]. [:green_heart:][klaxon-code]
-- [DiffEngine][] :green_heart:
-- [NYTdiff][] [:green_heart:][nytdiff-code]
-- [NewsDiff][] [:green_heart:][newsdiff-code]
-- [Pagelyzer][]. [:green_heart:][pagelyzer-code]
+- [Huginn][].
+- [Klaxon][]. [code][klaxon-code]
+- [DiffEngine][].
+- [NYTdiff][]. [code][nytdiff-code]
+- [NewsDiffs][]. [code][newsdiffs-code]
+- [Pagelyzer][]. [code][pagelyzer-code]
 
 
 ## Hosted Services
+
+Closed source unless indicated otherwise.
 
 - [Diffbot][]
 - [ChangeDetection][] :beer:
@@ -62,16 +61,17 @@ related or neighboring rights to this work.
    [trackly]: https://trackly.io/
    [versionista]: https://versionista.com/
    [visualping]: https://visualping.io/
-   [followthatpage]: https://www.followthatpage.com/
+   [follow that page]: https://www.followthatpage.com/
    [diffbot]: https://www.diffbot.com/
    [pagefreezer]: https://www.pagefreezer.com/
    [diffengine]: https://github.com/DocNow/diffengine
    [nytdiff]: https://github.com/j-e-d/NYTdiff
    [nytdiff-code]: https://github.com/j-e-d/NYTdiff
    [onwebchange]: https://onwebchange.com/
-   [thewebwatched]: http://www.thewebwatcher.com/
+   [thewebwatcher]: http://www.thewebwatcher.com/
    [ChangeTower]: https://changetower.com/
    [ChangeDetection]: https://www.changedetection.com/
    [WatchThatPage]: http://www.watchthatpage.com/
    [NewsDiffs]: http://newsdiffs.org/
    [newsdiffs-code]: https://github.com/ecprice/newsdiffs
+   [wachete]: https://www.wachete.com/
