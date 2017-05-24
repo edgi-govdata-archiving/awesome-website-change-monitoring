@@ -15,11 +15,11 @@
 
 ## Open Source
 
+- [DiffEngine][].
 - [Huginn][].
 - [Klaxon][]. [code][klaxon-code]
-- [DiffEngine][].
-- [NYTdiff][]. [code][nytdiff-code]
 - [NewsDiffs][]. [code][newsdiffs-code]
+- [NYTdiff][]. [code][nytdiff-code]
 - [Pagelyzer][]. [code][pagelyzer-code]
 
 
