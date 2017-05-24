@@ -2,6 +2,9 @@
 
 > A curated list of awesome tools for website diffing and change monitoring.
 
+**Note:** For a more in-depth comparison of these tools, please [contribute to our
+Google Spreadsheet on _Web monitoring software comparison_][spreadsheet].
+
 
 ## Contents
 
@@ -75,3 +78,4 @@ related or neighboring rights to this work.
    [NewsDiffs]: http://newsdiffs.org/
    [newsdiffs-code]: https://github.com/ecprice/newsdiffs
    [wachete]: https://www.wachete.com/
+   [spreadsheet]: https://docs.google.com/spreadsheets/d/1TqKX1PA2eOszLgb8Vejw5GPe4STJkHWFe2_IUa3t5gM/edit#gid=0
