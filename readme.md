@@ -31,6 +31,8 @@ Google Spreadsheet on _Web monitoring software comparison_][spreadsheet].
 Closed source unless indicated otherwise.
 
 - [Diffbot][]
+- [Distill][]
+- Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
 - [ChangeDetection][] :beer:
 - [ChangeTower][]
 - [Follow That Page][]
@@ -39,7 +41,7 @@ Closed source unless indicated otherwise.
 - [TheWebWatcher][] :beer:
 - [Trackly][]
 - [Versionista][]
-- [VisualPing][]
+- [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
 - [WatchThatPage][]
 
@@ -64,6 +66,7 @@ related or neighboring rights to this work.
    [trackly]: https://trackly.io/
    [versionista]: https://versionista.com/
    [visualping]: https://visualping.io/
+   [visualping-chrome]: https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd
    [follow that page]: https://www.followthatpage.com/
    [diffbot]: https://www.diffbot.com/
    [pagefreezer]: https://www.pagefreezer.com/
@@ -79,3 +82,6 @@ related or neighboring rights to this work.
    [newsdiffs-code]: https://github.com/ecprice/newsdiffs
    [wachete]: https://www.wachete.com/
    [spreadsheet]: https://docs.google.com/spreadsheets/d/1TqKX1PA2eOszLgb8Vejw5GPe4STJkHWFe2_IUa3t5gM/edit#gid=0
+   [distill]: https://distill.io/
+   [distill-ff]: https://addons.mozilla.org/en-us/firefox/addon/alertbox/
+   [distill-ff]: https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en
