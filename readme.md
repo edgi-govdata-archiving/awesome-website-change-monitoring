@@ -68,7 +68,7 @@ related or neighboring rights to this work.
    [diffbot]: https://www.diffbot.com/
    [pagefreezer]: https://www.pagefreezer.com/
    [diffengine]: https://github.com/DocNow/diffengine
-   [nytdiff]: https://github.com/j-e-d/NYTdiff
+   [nytdiff]: https://twitter.com/nyt_diff
    [nytdiff-code]: https://github.com/j-e-d/NYTdiff
    [onwebchange]: https://onwebchange.com/
    [thewebwatcher]: http://www.thewebwatcher.com/
