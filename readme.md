@@ -6,8 +6,9 @@
 Unlike many awesome lists, this area is so small that we are currently
 aspiring the map the whole tool landscape :)
 
-**Note:** For a more in-depth comparison of these tools, please [contribute to our
-Google Spreadsheet on _Web monitoring software comparison_][spreadsheet].
+For a more in-depth comparison of these tools, please see our [Google Spreadsheet][spreadsheet]. All contributions are welcome!
+
+[![Comparison Spreadsheet](https://i.imgur.com/dtT1Cjj.png)][spreadsheet]
 
 
 ## Contents
