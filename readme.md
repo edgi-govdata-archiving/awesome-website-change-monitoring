@@ -36,6 +36,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [NewsDiffs][]. [code][newsdiffs-code]
 - [NYTdiff][]. [code][nytdiff-code]
 - [Pagelyzer][]. [code][pagelyzer-code]
+- [Time Machine][]. [code][timemachine-code]. Also a hosted service.
 
 
 ### Hosted Services
@@ -103,3 +104,5 @@ related or neighboring rights to this work.
    [distill-chrome]: https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en
    [edgi-webmon]: https://github.com/edgi-govdata-archiving/web-monitoring
    [ChangeDetect]: http://www.changedetect.com/
+   [Time Machine]: http://timemachine.truthmeter.mk
+   [timemachine-code]: https://bitbucket.org/metamorfozis/news
