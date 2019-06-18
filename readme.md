@@ -37,6 +37,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [NYTdiff][]. [code][nytdiff-code]
 - [Pagelyzer][]. [code][pagelyzer-code]
 - [Time Machine][]. [code][timemachine-code]. Also a hosted service.
+- [Website Change Monitor](https://github.com/JuanmaMenendez/website-change-monitor)
 
 
 ### Hosted Services
