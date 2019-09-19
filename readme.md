@@ -65,7 +65,7 @@ Closed source unless indicated otherwise.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring/blob/master/CONTRIBUTING.md) first.
 
 
 ## License
