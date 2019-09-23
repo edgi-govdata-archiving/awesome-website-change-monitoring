@@ -6,7 +6,7 @@
 > and change monitoring.
 
 Unlike many awesome lists, this area is so small that we are currently
-aspiring the map the whole tool landscape :)
+aspiring to map the whole tool landscape :)
 
 For a more in-depth comparison of these tools, please see our [Google Spreadsheet][spreadsheet]. All contributions are welcome!
 
@@ -65,7 +65,7 @@ Closed source unless indicated otherwise.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring/blob/master/CONTRIBUTING.md) first.
 
 
 ## License
