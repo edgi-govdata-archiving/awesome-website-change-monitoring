@@ -37,7 +37,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [NYTdiff][]. [code][nytdiff-code]
 - [Pagelyzer][]. [code][pagelyzer-code]
 - [Time Machine][]. [code][timemachine-code]. Also a hosted service.
-- [Website Change Monitor](https://github.com/JuanmaMenendez/website-change-monitor)
+- [Website Change Monitor][website-change-monitor].
 
 
 ### Hosted Services
@@ -107,3 +107,4 @@ related or neighboring rights to this work.
    [ChangeDetect]: http://www.changedetect.com/
    [Time Machine]: http://timemachine.truthmeter.mk
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
+   [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
