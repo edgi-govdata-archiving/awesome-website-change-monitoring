@@ -47,7 +47,6 @@ Closed source unless indicated otherwise.
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
 - [ChangeDetect][]
-- [ChangeDetection][] :beer:
 - [ChangeTower][]
 - [Follow That Page][]
 - [OnWebChange][]
