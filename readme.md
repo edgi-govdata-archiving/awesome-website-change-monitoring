@@ -40,6 +40,11 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [Website Change Monitor][website-change-monitor].
 
 
+### Open Source and Self-Hosted Services
+
+- [Changedetection.io Website Change Monitoring][changedetection.io].
+
+
 ### Hosted Services
 
 Closed source unless indicated otherwise.
@@ -61,6 +66,7 @@ Closed source unless indicated otherwise.
 ## Content Extraction
 
 - [Diffbot][]
+
 
 
 ## Contribute
