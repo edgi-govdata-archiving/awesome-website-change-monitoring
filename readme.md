@@ -113,6 +113,5 @@ related or neighboring rights to this work.
    [Time Machine]: http://timemachine.truthmeter.mk
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
-   [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://github.com/dgtlmoon/changedetection.io
 
