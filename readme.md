@@ -68,7 +68,6 @@ Closed source unless indicated otherwise.
 - [Diffbot][]
 
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring/blob/master/CONTRIBUTING.md) first.
