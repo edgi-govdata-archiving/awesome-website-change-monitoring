@@ -40,6 +40,11 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [Website Change Monitor][website-change-monitor].
 
 
+### Open Source and Self-Hosted Services
+
+- [Changedetection.io Website Change Monitoring][changedetection.io].
+
+
 ### Hosted Services
 
 Closed source unless indicated otherwise.
@@ -107,3 +112,5 @@ related or neighboring rights to this work.
    [Time Machine]: http://timemachine.truthmeter.mk
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
+   [changedetection.io]: https://github.com/dgtlmoon/changedetection.io
+
