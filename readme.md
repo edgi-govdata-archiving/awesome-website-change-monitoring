@@ -51,6 +51,7 @@ Closed source unless indicated otherwise.
 - [Follow That Page][]
 - [OnWebChange][]
 - [PageFreezer][]
+- [PageCrawl][]
 - [TheWebWatcher][] :beer:
 - [Trackly][]
 - [Versionista][]
@@ -86,6 +87,7 @@ related or neighboring rights to this work.
    [visualping-chrome]: https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd
    [follow that page]: https://www.followthatpage.com/
    [diffbot]: https://www.diffbot.com/
+   [pagecrawl]: https://pagecrawl.io/
    [pagefreezer]: https://www.pagefreezer.com/
    [diffengine]: https://github.com/DocNow/diffengine
    [nytdiff]: https://twitter.com/nyt_diff
