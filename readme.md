@@ -28,7 +28,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 ## Content Diffing
 
 ### Open Source
-
+- [changedetection.io][]. Also a hosted service.
 - [DiffEngine][].
 - [EDGI Web Monitoring][edgi-webmon]
 - [Huginn][].
@@ -40,10 +40,14 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [Website Change Monitor][website-change-monitor].
 
 
+### Open Source and Self-Hosted Services
+
+- [Changedetection.io Website Change Monitoring][changedetection.io].
+
+
 ### Hosted Services
 
 Closed source unless indicated otherwise.
-
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
 - [ChangeDetect][]
@@ -75,6 +79,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/edg
 To the extent possible under law, Patrick Connolly has waived all copyright and
 related or neighboring rights to this work.
 
+   [changedetection.io]: https://github.com/dgtlmoon/changedetection.io
    [huginn]: https://github.com/huginn/huginn
    [klaxon]: https://www.newsklaxon.org/
    [klaxon-code]: https://github.com/themarshallproject/klaxon
@@ -107,3 +112,5 @@ related or neighboring rights to this work.
    [Time Machine]: http://timemachine.truthmeter.mk
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
+   [changedetection.io]: https://github.com/dgtlmoon/changedetection.io
+
