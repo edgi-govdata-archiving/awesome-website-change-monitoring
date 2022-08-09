@@ -46,6 +46,7 @@ Closed source unless indicated otherwise.
 
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
+- [changed.online][]
 - [ChangeDetect][]
 - [ChangeTower][]
 - [Follow That Page][]
@@ -92,6 +93,7 @@ related or neighboring rights to this work.
    [nytdiff-code]: https://github.com/j-e-d/NYTdiff
    [onwebchange]: https://onwebchange.com/
    [thewebwatcher]: http://www.thewebwatcher.com/
+   [changed.online]: https://changed.online/
    [ChangeTower]: https://changetower.com/
    [ChangeDetection]: https://www.changedetection.com/
    [WatchThatPage]: http://www.watchthatpage.com/
