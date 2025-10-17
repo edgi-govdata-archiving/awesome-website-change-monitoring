@@ -28,6 +28,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 ## Content Diffing
 
 ### Open Source
+
 - [DiffEngine][].
 - [EDGI Web Monitoring][edgi-webmon]
 - [Huginn][].
@@ -42,6 +43,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 ### Hosted Services
 
 Closed source unless indicated otherwise.
+
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
 - [ChangeDetect][]
