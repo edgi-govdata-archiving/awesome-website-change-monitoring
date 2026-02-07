@@ -47,6 +47,7 @@ Closed source unless indicated otherwise.
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
 - [changed.online][]
+- [ArkWatch][]
 - [ChangeDetect][]
 - [changedetection.io][]. Also available under the Apache License (2.0).
 - [ChangeTower][]
@@ -113,4 +114,5 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
+   [ArkWatch]: https://watch.arkforge.fr
 
