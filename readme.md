@@ -36,6 +36,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [NewsDiffs][]. [code][newsdiffs-code]
 - [NYTdiff][]. [code][nytdiff-code]
 - [Pagelyzer][]. [code][pagelyzer-code]
+- [SSL Certificate Monitor][ssl-certificate-monitor]. Monitor SSL/TLS certificate expiry.
 - [Time Machine][]. [code][timemachine-code]. Also a hosted service.
 - [Website Change Monitor][website-change-monitor].
 
@@ -113,4 +114,5 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
+   [ssl-certificate-monitor]: https://github.com/brancogao/ssl-certificate-monitor
 
