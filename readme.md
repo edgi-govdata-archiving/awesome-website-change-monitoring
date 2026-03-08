@@ -38,6 +38,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [Pagelyzer][]. [code][pagelyzer-code]
 - [Time Machine][]. [code][timemachine-code]. Also a hosted service.
 - [Website Change Monitor][website-change-monitor].
+- [Website-Diff][website-diff]. [code][website-diff-code]
 
 
 ### Hosted Services
@@ -113,4 +114,5 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
-
+   [website-diff]: https://github.com/GeiserX/Website-Diff
+   [website-diff-code]: https://github.com/GeiserX/Website-Diff
