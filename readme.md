@@ -46,6 +46,7 @@ Closed source unless indicated otherwise.
 
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
+- [16761.tech Watch][16761watch]. API-first website change monitoring with visual screenshots, CSS selectors, and Telegram alerts. Free tier available.
 - [changed.online][]
 - [ChangeDetect][]
 - [changedetection.io][]. Also available under the Apache License (2.0).
