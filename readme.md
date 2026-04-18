@@ -54,6 +54,7 @@ Closed source unless indicated otherwise.
 - [OnWebChange][]
 - [PageFreezer][]
 - [PageCrawl][]
+- [Snaplert][] :beer: AI-powered visual diffs and email alerts with before/after screenshots.
 - [TheWebWatcher][] :beer:
 - [Trackly][]
 - [Versionista][]
@@ -113,4 +114,5 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
+   [snaplert]: https://snaplert.com
 
