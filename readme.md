@@ -53,6 +53,7 @@ Closed source unless indicated otherwise.
 - [Follow That Page][]
 - [OnWebChange][]
 - [PageFreezer][]
+- - [Snaplert](https://snaplert.com) :free: Visual pixel diffs, AI summaries, element zone picker. Free open beta.
 - [PageCrawl][]
 - [TheWebWatcher][] :beer:
 - [Trackly][]
