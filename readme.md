@@ -54,6 +54,7 @@ Closed source unless indicated otherwise.
 - [OnWebChange][]
 - [PageFreezer][]
 - [PageCrawl][]
+- [RestockAlerts][] Monitors fashion and retail product pages for back-in-stock and price changes; alerts via email.
 - [TheWebWatcher][] :beer:
 - [Trackly][]
 - [Versionista][]
@@ -90,6 +91,7 @@ related or neighboring rights to this work.
    [follow that page]: https://www.followthatpage.com/
    [diffbot]: https://www.diffbot.com/
    [pagecrawl]: https://pagecrawl.io/
+   [restockalerts]: https://restockalerts.com/
    [pagefreezer]: https://www.pagefreezer.com/
    [diffengine]: https://github.com/DocNow/diffengine
    [nytdiff]: https://twitter.com/nyt_diff
