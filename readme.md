@@ -51,6 +51,7 @@ Closed source unless indicated otherwise.
 - [changedetection.io][]. Also available under the Apache License (2.0).
 - [ChangeTower][]
 - [Follow That Page][]
+- [Franchise FDD & Filing Change Monitor][apify-franchise-fdd-monitor]. An Apify Actor for structured diffs of known public pages, with persistent snapshots and pay-per-successful-check pricing.
 - [OnWebChange][]
 - [PageFreezer][]
 - [PageCrawl][]
@@ -88,6 +89,7 @@ related or neighboring rights to this work.
    [visualping]: https://visualping.io/
    [visualping-chrome]: https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd
    [follow that page]: https://www.followthatpage.com/
+   [apify-franchise-fdd-monitor]: https://apify.com/n0geegee/franchise-filing-offer-change-monitor
    [diffbot]: https://www.diffbot.com/
    [pagecrawl]: https://pagecrawl.io/
    [pagefreezer]: https://www.pagefreezer.com/
