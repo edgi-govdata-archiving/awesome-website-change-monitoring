@@ -52,8 +52,9 @@ Closed source unless indicated otherwise.
 - [ChangeTower][]
 - [Follow That Page][]
 - [OnWebChange][]
-- [PageFreezer][]
 - [PageCrawl][]
+- [PageDiff][]
+- [PageFreezer][]
 - [TheWebWatcher][] :beer:
 - [Trackly][]
 - [Versionista][]
@@ -90,6 +91,7 @@ related or neighboring rights to this work.
    [follow that page]: https://www.followthatpage.com/
    [diffbot]: https://www.diffbot.com/
    [pagecrawl]: https://pagecrawl.io/
+   [pagediff]: https://pagediff.ai/
    [pagefreezer]: https://www.pagefreezer.com/
    [diffengine]: https://github.com/DocNow/diffengine
    [nytdiff]: https://twitter.com/nyt_diff
