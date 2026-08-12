@@ -53,8 +53,9 @@ Closed source unless indicated otherwise.
 - [Fluxguard][] (Formerly [Versionista][])
 - [Follow That Page][]
 - [OnWebChange][]
-- [PageFreezer][]
 - [PageCrawl][]
+- [PageDiff][]
+- [PageFreezer][]
 - [TheWebWatcher][] :beer:
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
@@ -91,6 +92,7 @@ related or neighboring rights to this work.
    [follow that page]: https://www.followthatpage.com/
    [diffbot]: https://www.diffbot.com/
    [pagecrawl]: https://pagecrawl.io/
+   [pagediff]: https://pagediff.ai/
    [pagefreezer]: https://www.pagefreezer.com/
    [diffengine]: https://github.com/DocNow/diffengine
    [nytdiff]: https://bsky.app/profile/nytdiff.bsky.social
