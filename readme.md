@@ -58,6 +58,7 @@ Closed source unless indicated otherwise.
 - [TheWebWatcher][] :beer:
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
+- [Watched][] API-first change detection with MCP server support, AI agent alerts, and [open-source SDKs](https://github.com/NG-PR0JECT).
 - [WatchThatPage][]
 
 ## Content Extraction
@@ -104,6 +105,7 @@ related or neighboring rights to this work.
    [NewsDiffs]: http://newsdiffs.org/
    [newsdiffs-code]: https://github.com/ecprice/newsdiffs
    [wachete]: https://www.wachete.com/
+   [watched]: https://watchedapi.com/
    [spreadsheet]: https://docs.google.com/spreadsheets/d/1TqKX1PA2eOszLgb8Vejw5GPe4STJkHWFe2_IUa3t5gM/edit#gid=0
    [distill]: https://distill.io/
    [distill-ff]: https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff/
