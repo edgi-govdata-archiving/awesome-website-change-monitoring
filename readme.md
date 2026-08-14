@@ -63,6 +63,7 @@ Closed source unless indicated otherwise.
 ## Content Extraction
 
 - [Diffbot][]
+- [n8n Uptime Ping Alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) - Free n8n workflow: checks a site every 5 minutes and pings Telegram only on state change (up/down).
 
 
 ## Contribute
