@@ -32,6 +32,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [DiffEngine][].
 - [EDGI Web Monitoring][edgi-webmon]
 - [Huginn][].
+- [jobfeed-watchdog][jobfeed-watchdog]. Fails the CI build when a job feed (or any JSON/YAML list endpoint) silently breaks — schema change, record-count collapse, or outage. Runs as a scheduled GitHub Action.
 - [Klaxon][]. [code][klaxon-code]
 - [NewsDiffs][]. [code][newsdiffs-code]
 - [NYTdiff][]. [code][nytdiff-code]
@@ -112,4 +113,4 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
-
+   [jobfeed-watchdog]: https://github.com/earnnova-dev/jobfeed-watchdog
