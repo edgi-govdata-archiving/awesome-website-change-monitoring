@@ -53,6 +53,7 @@ Closed source unless indicated otherwise.
 - [Fluxguard][] (Formerly [Versionista][])
 - [Follow That Page][]
 - [OnWebChange][]
+- [Osmanth Watch][]
 - [PageFreezer][]
 - [PageCrawl][]
 - [TheWebWatcher][] :beer:
@@ -96,6 +97,7 @@ related or neighboring rights to this work.
    [nytdiff]: https://bsky.app/profile/nytdiff.bsky.social
    [nytdiff-code]: https://github.com/j-e-d/NYTdiff
    [onwebchange]: https://onwebchange.com/
+   [osmanth watch]: https://osmanthwatch.com/
    [thewebwatcher]: http://www.thewebwatcher.com/
    [changed.online]: https://changed.online/
    [ChangeTower]: https://changetower.com/
