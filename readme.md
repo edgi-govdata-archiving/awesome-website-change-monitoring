@@ -59,6 +59,7 @@ Closed source unless indicated otherwise.
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
 - [WatchThatPage][]
+- [RivalSweep][] Competitor pricing/changelog pages; keeps before/after diffs as evidence.
 
 ## Content Extraction
 
@@ -112,4 +113,4 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
-
+   [rivalsweep]: https://rivalsweep.com/
