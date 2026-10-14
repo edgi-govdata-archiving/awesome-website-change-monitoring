@@ -86,7 +86,7 @@ related or neighboring rights to this work.
    [changeflow]: https://changeflow.com/
    [trackly]: https://trackly.io/stay
    [fluxguard]: https://fluxguard.com/
-   [fluxproof]: https://fluxproof.neoaethel.workers.dev/?ref=awesome-change-monitor
+   [fluxproof]: https://fluxproof.tryneverclosed.com/?ref=awesome-change-monitor
    [versionista]: https://versionista.com/
    [visualping]: https://visualping.io/
    [visualping-chrome]: https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd
