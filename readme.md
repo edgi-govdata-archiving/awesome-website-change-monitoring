@@ -51,6 +51,7 @@ Closed source unless indicated otherwise.
 - [changedetection.io][]. Also available under the Apache License (2.0).
 - [ChangeTower][]
 - [Fluxguard][] (Formerly [Versionista][])
+- [FluxProof][] - Monitors public pages and returns before-and-after evidence with content hashes, change history and signed webhooks; REST and MCP; free daily monitor for one page.
 - [Follow That Page][]
 - [OnWebChange][]
 - [PageFreezer][]
@@ -85,6 +86,7 @@ related or neighboring rights to this work.
    [changeflow]: https://changeflow.com/
    [trackly]: https://trackly.io/stay
    [fluxguard]: https://fluxguard.com/
+   [fluxproof]: https://fluxproof.tryneverclosed.com/?ref=awesome-change-monitor
    [versionista]: https://versionista.com/
    [visualping]: https://visualping.io/
    [visualping-chrome]: https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd
