@@ -58,6 +58,7 @@ Closed source unless indicated otherwise.
 - [TheWebWatcher][] :beer:
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
+- [SnapshotArchive][]. Scheduled website screenshots with visual change detection. Captures full-page snapshots on a schedule and alerts when changes are detected. :beer:
 - [WatchThatPage][]
 
 ## Content Extraction
@@ -113,3 +114,5 @@ related or neighboring rights to this work.
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
 
+
+   [SnapshotArchive]: https://snapshotarchive.com
