@@ -55,6 +55,7 @@ Closed source unless indicated otherwise.
 - [OnWebChange][]
 - [PageFreezer][]
 - [PageCrawl][]
+- [QuietDiff][]. CSS-selector and JSON-path targeting, REST API and an MCP server for AI agents. Free tier.
 - [TheWebWatcher][] :beer:
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
@@ -112,4 +113,5 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
+   [QuietDiff]: https://quietdiff.com/
 
