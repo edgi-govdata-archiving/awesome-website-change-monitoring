@@ -52,6 +52,7 @@ Closed source unless indicated otherwise.
 - [ChangeTower][]
 - [Fluxguard][] (Formerly [Versionista][])
 - [Follow That Page][]
+- [monity.ai][] Keeps a full-page screenshot and a single-file HTML copy of every check.
 - [OnWebChange][]
 - [PageFreezer][]
 - [PageCrawl][]
@@ -112,4 +113,5 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
+   [monity.ai]: https://monity.ai/
 
