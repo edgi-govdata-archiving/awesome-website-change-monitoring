@@ -36,6 +36,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [NewsDiffs][]. [code][newsdiffs-code]
 - [NYTdiff][]. [code][nytdiff-code]
 - [Pagelyzer][]. [code][pagelyzer-code]
+- [SaltCrate Page Change Monitor][saltcrate-monitor]. GitHub Action + hosted engine: server-side change detection, optional auto-updating issue, nothing committed to your repo.
 - [Time Machine][timemachine-code]
 - [Website Change Monitor][website-change-monitor].
 
@@ -109,6 +110,7 @@ related or neighboring rights to this work.
    [distill-ff]: https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff/
    [distill-chrome]: https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en
    [edgi-webmon]: https://github.com/edgi-govdata-archiving/web-monitoring
+   [saltcrate-monitor]: https://github.com/saltcrate/page-change-monitor
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
