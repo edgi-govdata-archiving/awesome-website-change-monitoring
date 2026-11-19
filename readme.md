@@ -59,6 +59,7 @@ Closed source unless indicated otherwise.
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
 - [WatchThatPage][]
+- [Writ][]. Watches an element, a visual zone or a screenshot region; a change sends an alert (email, SMS, webhook) or runs a workflow. Free plan.
 
 ## Content Extraction
 
@@ -101,6 +102,7 @@ related or neighboring rights to this work.
    [ChangeTower]: https://changetower.com/
    [ChangeDetection]: https://www.changedetection.com/
    [WatchThatPage]: http://www.watchthatpage.com/
+   [Writ]: https://usewrit.app/solutions/use-case/change-monitoring/
    [NewsDiffs]: http://newsdiffs.org/
    [newsdiffs-code]: https://github.com/ecprice/newsdiffs
    [wachete]: https://www.wachete.com/
