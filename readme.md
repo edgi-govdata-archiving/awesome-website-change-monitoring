@@ -55,6 +55,7 @@ Closed source unless indicated otherwise.
 - [OnWebChange][]
 - [PageFreezer][]
 - [PageCrawl][]
+- [RailWatch][] Watches Best Buy SKUs (including Open-Box tiers), price drops, restocks and Greenhouse job boards; alerts go to email, Slack, Discord, Telegram or HMAC-signed webhooks. Free trial. [Webhook starter code][railwatch-starter] (MIT).
 - [TheWebWatcher][] :beer:
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
@@ -92,6 +93,8 @@ related or neighboring rights to this work.
    [diffbot]: https://www.diffbot.com/
    [pagecrawl]: https://pagecrawl.io/
    [pagefreezer]: https://www.pagefreezer.com/
+   [railwatch]: https://alerts.listingrail.com/
+   [railwatch-starter]: https://github.com/benthepythondev00/railwatch-webhook-starter
    [diffengine]: https://github.com/DocNow/diffengine
    [nytdiff]: https://bsky.app/profile/nytdiff.bsky.social
    [nytdiff-code]: https://github.com/j-e-d/NYTdiff
